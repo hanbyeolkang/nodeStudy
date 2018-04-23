@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hanbyeolkang/nodeStudy#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.3"
   }
 }
